@@ -1,0 +1,63 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: Test1-undefined
+  annotations:
+    confluence/page: Test1
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Fri Jul 05 2024 13:46:41 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  version: ''
+  projectInfo:
+    projectName: Test1
+    moduleName: ''
+    informationAuthor: ''
+    modality:
+      - UL
+      - PET
+      - MR
+    bodyParts: Brain
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: Windows+Linux
+    sourceCodeLanguage: ''
+    developmentStatus: DEVELOPMENT
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: Research Prototype
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: IMAGE ANALYSIS
+    TRL: E-NICE
+    projectStatus: ACTIVE
